@@ -1,14 +1,13 @@
 # Final-Project-01205489: News Headlines Dataset For Sarcasm Detection
 Final Project 01205489(Principles of Deep Learning and Applications)
 
-![Hmm...](https://pin.it/xPGkr8d)
+![Hmm...](https://cacm.acm.org/system/assets/0002/2088/121715_Chuck_Lorre_Productions_sarcasm.large.jpg?1476779514&1450374374)
 
-This project's purpose is to analysis and classificate sarcasm sentences using dataset from kaggle
-*My project come from many others notebooks, not to claim these project.
+This project's purpose is to analyze and classify sarcasm sentences using the dataset from Kaggle 
+*My project come from many other notebooks, not to claim these projects.
 The dataset is from [Kaggle Dataset](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection).
 
-Project is made of 3 part; visualize and analysis data, ML model prediction and Glove pretrain model prediction.
-For first part, we clean and preprocess data with stop word, punctuation and then visualize data with distribution of length of word, number of words in headline and average word length in headline to find if that dataset is biased or not. Common words, N-gram analysis and workcloud is need for one word prediction.
-Second part, tokenization words into vectors and train in ML models. Decision tree and Random Forest show us a interesting result.
-Lastly, Glove pretrain model by using word embedding gave a incredible result with long period of time to train
-For Special Section, compared Glove model with different embedding word and show why I use combined dataset
+The project is made of 3 parts; visualize and analyze data, ML model prediction, and Glove pre-train model prediction.
+For the first part, we clean and preprocess data with stop words, and punctuation and then visualize data with the distribution of length of the word, number of words in the headline, and average word length in the headline to find if that dataset is biased or not. Common words, N-gram analysis, and word cloud is needed for one-word prediction.
+The second part is the tokenization of words into vectors and trains in ML models. The decision tree and Random Forest show us an interesting result.
+Lastly, Glove pre-train model by using word embedding gave an incredible result with the long period of time to train For Special Section, compared Glove model with different embedding words and show why I use a combined dataset
