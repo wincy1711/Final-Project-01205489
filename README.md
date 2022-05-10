@@ -4,7 +4,6 @@ Final Project 01205489(Principles of Deep Learning and Applications)
 ![Hmm...](https://cacm.acm.org/system/assets/0002/2088/121715_Chuck_Lorre_Productions_sarcasm.large.jpg?1476779514&1450374374)
 
 This project's purpose is to analyze and classify sarcasm sentences using the dataset from Kaggle 
-*My project come from many other notebooks, not to claim these projects.
 The dataset is from [Kaggle Dataset](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection).
 
 The project is made of 3 parts; visualize and analyze data, ML model prediction, and Glove pre-train model prediction.
